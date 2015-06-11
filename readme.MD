@@ -16,3 +16,5 @@ It is of course possible to git a specified path or pattern to the files you wan
 After the index of the working tree has been updated to include your targeted changes you can commit your changes. This will 
 store the current contents of the index in a new commit along with a log message from the user describing the changes. In less technical terms this means that we can commit the changes to our git database allong with a message explaining the changes. For example, we can commit our previously updated index like so: ```git commit -m "Fixed a bug in the routing engine"```.
 
+
+
